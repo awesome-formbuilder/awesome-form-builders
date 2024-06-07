@@ -1,3 +1,81 @@
-# awesome-form-builders
+# Awesome Form Builders
 
-A curated list of awesome form builders.
+A curated list of awesome form builders for developers, designers, and businesses.
+
+## Free Form Builders
+
+- **Google Forms** - Simple and easy-to-use form builder with integration with Google Sheets.
+  - [Website](https://www.google.com/forms/about/)
+  - Features: Templates, conditional logic, and response validation.
+  
+- **Typeform** - Interactive and conversational form builder with a focus on user experience.
+  - [Website](https://www.typeform.com/)
+  - Features: Conditional logic, customization, and integrations.
+
+- **JotForm** - Drag-and-drop form builder with a variety of templates and customization options.
+  - [Website](https://www.jotform.com/)
+  - Features: Widgets, payment integrations, and HIPAA compliance.
+
+- **Microsoft Forms** - Simple form builder integrated with the Microsoft Office suite.
+  - [Website](https://forms.microsoft.com/)
+  - Features: Real-time responses, quizzes, and branching.
+
+## Paid Form Builders
+
+- **Formstack** - Advanced form builder with workflow automation and advanced integrations.
+  - [Website](https://www.formstack.com/)
+  - Features: Conditional logic, e-signatures, and secure data collection.
+
+- **Wufoo** - User-friendly form builder with robust reporting and integration capabilities.
+  - [Website](https://www.wufoo.com/)
+  - Features: Theme designer, payment processing, and rule logic.
+
+- **Cognito Forms** - Powerful form builder with payment integration and document merging.
+  - [Website](https://www.cognitoforms.com/)
+  - Features: Calculations, file uploads, and conditional logic.
+
+## Open Source Form Builders
+
+- **Form.io** - Form and data management platform for serverless form-based applications.
+  - [GitHub](https://github.com/formio/formio)
+  - Features: Drag-and-drop form builder, form embedding, and REST API.
+
+- **Orbeon Forms** - Web forms solution for the enterprise, open-source and standards-based.
+  - [GitHub](https://github.com/orbeon/orbeon-forms)
+  - Features: Integration with various databases, multi-page forms, and PDF generation.
+
+- **Next.js Forms** - A form builder specifically for Next.js applications.
+  - [GitHub](https://github.com/hswolff/nextjs-forms)
+  - Features: Server-side validation, seamless integration with Next.js.
+
+## Specialized Form Builders
+
+- **SurveyMonkey** - Specialized in surveys with advanced analytics and reporting tools.
+  - [Website](https://www.surveymonkey.com/)
+  - Features: Survey templates, question logic, and data analysis.
+
+- **123FormBuilder** - Versatile form builder with extensive integration options.
+  - [Website](https://www.123formbuilder.com/)
+  - Features: Customizable templates, conditional logic, and payment integration.
+
+- **Formsite** - Form builder focused on secure data collection and flexible reporting.
+  - [Website](https://www.formsite.com/)
+  - Features: Conditional logic, e-commerce capabilities, and reporting.
+
+## No-Code Form Builders
+
+- **Airtable** - Combines the features of a spreadsheet with a database, suitable for forms.
+  - [Website](https://www.airtable.com/)
+  - Features: Custom forms, automation, and integration with other apps.
+
+- **Ninja Forms** - WordPress form builder with a no-code approach and powerful extensions.
+  - [Website](https://ninjaforms.com/)
+  - Features: Drag-and-drop interface, conditional logic, and third-party integrations.
+
+- **Tally** - No-code form builder with unlimited forms, responses, and advanced features.
+  - [Website](https://tally.so/)
+  - Features: Custom branding, integrations, and collaboration.
+
+## Conclusion
+
+Form builders are essential tools for gathering information and automating workflows. Whether you're looking for a simple, free option or a robust, enterprise-level solution, there's a form builder out there to meet your needs. Explore these options to find the best fit for your project or business.
