@@ -2,6 +2,11 @@
 
 A curated list of awesome form builders for developers, designers, and businesses.
 
+## React Form Builders
+- **FormEngine** - Drag & Drop Form Builder Library for React with Easier Integration of Custom Components.
+  - [Website](https://formengine.io/)
+  - Features: Drag and drop form elements, adaptive layout, Built-in form validation, external form validation, built-in web components based on React Suite library, export form to JSON and import form from JSON, internationalization, custom actions, computable properties, templates, Camunda 7 FormBuilder, drag & Drop Designer customization.
+
 ## Free Form Builders
 
 - **Google Forms** - Simple and easy-to-use form builder with integration with Google Sheets.
