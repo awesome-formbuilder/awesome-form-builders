@@ -24,6 +24,10 @@ A curated list of awesome form builders for developers, designers, and businesse
 - **Microsoft Forms** - Simple form builder integrated with the Microsoft Office suite.
   - [Website](https://forms.microsoft.com/)
   - Features: Real-time responses, quizzes, and branching.
+- **KirokuForms** - Drag-and-drop form builder with lots of templates and full customization.
+  - [Website](https://kirokuforms.com/)
+  - Features: Templates, full CSS customization, MCP for agentic integration, Spam protection.
+
 
 ## Paid Form Builders
 
