@@ -31,6 +31,11 @@ A curated list of awesome form builders for developers, designers, and businesse
   - [Website](https://www.formstack.com/)
   - Features: Conditional logic, e-signatures, and secure data collection.
 
+- **Kirokuforms** - KirokuForms offers an API-first platform with an HTML-only option for peak performance, total CSS control, and seamless integration into any stack.
+  - [Website](https://www.kirokuforms.com/)
+  - Features: Lightning-Fast Forms That Boost Conversions Powered by global CDN for instant loading worldwide. HTML-only option eliminates performance penalties that hurt conversion rates.           Complete Customization Without Limits. Full CSS control and professional branding at every tier. Get enterprise-level customization without enterprise pricing.AI-Ready & Future-Proof
+    Optional AI-powered features plus seamless integration with human review workflows. Scale from simple forms to intelligent data collection.
+
 - **Wufoo** - User-friendly form builder with robust reporting and integration capabilities.
   - [Website](https://www.wufoo.com/)
   - Features: Theme designer, payment processing, and rule logic.
