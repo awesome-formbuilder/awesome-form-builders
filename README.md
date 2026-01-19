@@ -7,6 +7,10 @@ A curated list of awesome form builders for developers, designers, and businesse
   - [Website](https://formengine.io/)
   - Features: Drag and drop form elements, adaptive layout, Built-in form validation, external form validation, built-in web components based on React Suite library, export form to JSON and import form from JSON, internationalization, custom actions, computable properties, templates, Camunda 7 FormBuilder, drag & Drop Designer customization.
 
+- **react-feedback-surveys** - Lightweight, customizable survey widgets for collecting user feedback in React apps.
+  - [GitHub](https://github.com/feedback-tools-platform/react-feedback-surveys)
+  - Features: Ready-to-use NPS, CSAT, and CES surveys, multiple visual styles (emoji, stars, numbers, thumbs), inline or popup display modes, optional follow-up questions, zero dependencies, TypeScript support, customizable via CSS variables.
+
 ## Free Form Builders
 
 - **Google Forms** - Simple and easy-to-use form builder with integration with Google Sheets.
