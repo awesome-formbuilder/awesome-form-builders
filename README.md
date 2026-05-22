@@ -89,3 +89,9 @@ A curated list of awesome form builders for developers, designers, and businesse
 - **Tally** - No-code form builder with unlimited forms, responses, and advanced features.
   - [Website](https://tally.so/)
   - Features: Custom branding, integrations, and collaboration.
+
+## AI Form Builders
+
+- **Pollsar** - AI survey, quiz and form builder. Describe your task and AI builds the survey in 30 seconds.
+  - [Website](https://pollsar.com/)
+  - Features: AI-powered survey generation from a text prompt, quizzes and forms, free plan with unlimited surveys.
