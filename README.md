@@ -33,6 +33,9 @@ A curated list of awesome form builders for developers, designers, and businesse
   - [Website](https://kirokuforms.com/)
   - Features: Templates, full CSS customization, MCP for agentic integration, Spam protection.
 
+- **Formdiy** - Build different and beautiful forms.
+  - [Website](https://formdiy.com/)
+  - Features: Unlimited forms and submissions, versatile form modes, conditional workflow, real-time sync, custom domain, powerful analytics.
 
 ## Paid Form Builders
 
