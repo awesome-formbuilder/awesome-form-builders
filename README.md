@@ -65,6 +65,10 @@ A curated list of awesome form builders for developers, designers, and businesse
   - [GitHub](https://github.com/hswolff/nextjs-forms)
   - Features: Server-side validation, seamless integration with Next.js.
 
+- **SurveyJS Survey Creator** - A self-hosted, drag-and-drop form builder for JavaScript applications.
+  - [Github](https://github.com/surveyjs/survey-creator)
+  - Features: JSON-based form creation, conditional logic, custom branding, multilingual forms, and integration with React, Angular, Vue, and vanilla JavaScript.
+
 ## Specialized Form Builders
 
 - **SurveyMonkey** - Specialized in surveys with advanced analytics and reporting tools.
