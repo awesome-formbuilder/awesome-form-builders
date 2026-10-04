@@ -99,6 +99,9 @@ A curated list of awesome form builders for developers, designers, and businesse
 
 ## AI Form Builders
 
+**AllBack** - Form builder with automatic reminders: sends each person a personal link, reminds only the people who have not answered, and shows who is still missing.
+  - [Website](https://www.allback.ai/)
+  - Features: Personal prefilled links, automatic reminders, list of who is missing, open links with QR codes, file uploads, signatures, CSV export, works in Claude, ChatGPT, and any AI. Free plan with unlimited forms and answers; Business free for schools and nonprofits.
 - **Pollsar** - AI survey, quiz and form builder. Describe your task and AI builds the survey in 30 seconds.
   - [Website](https://pollsar.com/)
   - Features: AI-powered survey generation from a text prompt, quizzes and forms, free plan with unlimited surveys.
