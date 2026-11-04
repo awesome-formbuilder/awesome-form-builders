@@ -37,6 +37,10 @@ A curated list of awesome form builders for developers, designers, and businesse
   - [Website](https://formdiy.com/)
   - Features: Unlimited forms and submissions, versatile form modes, conditional workflow, real-time sync, custom domain, powerful analytics.
 
+- **Slapform** - Form builder and form backend for any website: point an HTML form at it and each submission is emailed to you and stored.
+  - [Website](https://slapform.com/)
+  - Features: Free plan, spam filtering with captcha, submission storage, webhooks, and Zapier integration.
+
 ## Paid Form Builders
 
 - **Formstack** - Advanced form builder with workflow automation and advanced integrations.
