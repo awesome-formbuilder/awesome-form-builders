@@ -105,3 +105,7 @@ A curated list of awesome form builders for developers, designers, and businesse
 - **Pollsar** - AI survey, quiz and form builder. Describe your task and AI builds the survey in 30 seconds.
   - [Website](https://pollsar.com/)
   - Features: AI-powered survey generation from a text prompt, quizzes and forms, free plan with unlimited surveys.
+
+- **Formgong Form Generator** - Describe a form in plain words or start from one of eight common forms, then edit the fields with a live preview.
+  - [Website](https://formgong.com/en/tools/form-generator/)
+  - Features: HTML, Tailwind, Bootstrap 5, React and Vue code plus a prompt for AI site builders from the same fields; no sign-up to copy the code; the form only sends once you add a free Formgong access key.
